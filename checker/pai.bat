@@ -1,0 +1,10 @@
+.\checker.exe ..\data\testcase1.in ..\data\testcase1.out > report1.log
+.\checker.exe ..\data\testcase2.in ..\data\testcase2.out > report2.log
+.\checker.exe ..\data\testcase3.in ..\data\testcase3.out > report3.log
+.\checker.exe ..\data\testcase4.in ..\data\testcase4.out > report4.log
+.\checker.exe ..\data\testcase5.in ..\data\testcase5.out > report5.log
+.\checker.exe ..\data\testcase6.in ..\data\testcase6.out > report6.log
+.\checker.exe ..\data\testcase7.in ..\data\testcase7.out > report7.log
+.\checker.exe ..\data\testcase8.in ..\data\testcase8.out > report8.log
+.\checker.exe ..\data\testcase9.in ..\data\testcase9.out > report9.log
+.\checker.exe ..\data\testcase10.in ..\data\testcase10.out > report10.log
